@@ -1,4 +1,19 @@
-name = input("Enter your name: ")
-age = input("Enter your age: ")
-print("Hello,", name + "!")
-print("You are", age, "years old.")
+num1 = float(input("Enter first number: "))
+operator = input("Enter operator (+, -, *, /): ")
+num2 = float(input("Enter second number: "))
+
+if operator == '+':
+    result = num1 + num2
+elif operator == '-':
+    result = num1 - num2
+elif operator == '*':
+    result = num1 * num2
+elif operator == '/':
+    if num2 != 0:
+        result = num1 / num2
+    else:
+        result = "Error: Division by zero"
+else:
+    result = "Invalid operator"
+
+print("Result:", str(result))
