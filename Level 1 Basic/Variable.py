@@ -47,9 +47,19 @@ x, y, z = 3, 4, 5
 
 print(x,y,z)
 
+# One value to multiple Variable
 x=y=z=5
+
 print(x,y,z)
 
+# Unpack a Collection:
+# If you have a collection of values in a list, tuple etc. Python allows you to extract the values into variables. This is called unpacking.
+
+fruits = ['apple','banana','cherry']
+
+x,y,z= fruits
+
+print(x,y,z);
 
 
 
