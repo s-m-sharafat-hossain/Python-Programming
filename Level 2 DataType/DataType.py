@@ -26,9 +26,9 @@ x = 50.56
 y = float(50.56)
 print(x,y)
 
-#Complex: Mix 
-x = 50j
-y = complex(50j)
+#Complex: Complex like 4+5j [j is complex part]
+x = 5j
+y = complex(5j)
 print(x,y)
 
 #List: use []
