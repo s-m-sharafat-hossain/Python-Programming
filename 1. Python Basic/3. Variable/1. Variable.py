@@ -57,9 +57,10 @@ print(x,y,z)
 
 fruits = ['apple','banana','cherry']
 
-x,y,z= fruits
+x,y,z= fruits   # x=apple, y=banana, z=cherry
 
-print(x,y,z);
+print(x)
+print(y,z)
 
 
 
