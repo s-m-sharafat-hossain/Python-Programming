@@ -4,4 +4,4 @@ import keyword
 print("The list of keywords is : ")
 print(keyword.kwlist)
 
-# this all keyword reserve for python. Do not use for variable name, function name etc.
+# this all keyword reserve for python. Do not use for variable name, function name etc.7`rti`

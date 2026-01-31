@@ -63,11 +63,15 @@ x = ["apple", "banana"]
 print("banana" in x)
 
 x = 5
-for i in x:
+for i in range(x):
     print("Number: ",i)
 
 for i in range(5):
     print("Number: ",i)
+
+# Use not in
+x = ["apple", "banana"]
+print("cherry" not in x)  # print Boolean value True.
 
 
 # Bitwise operators:        &(AND), \(OR), ^(XOR), ~(Not)

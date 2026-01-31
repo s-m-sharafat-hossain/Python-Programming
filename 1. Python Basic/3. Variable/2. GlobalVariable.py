@@ -18,12 +18,12 @@ print("Output: "+x)
 # Now using global keyword
 x = 'Sharafat'
 
-def myFunction():
+def myFunction2():
     global x
     x = 'hossain' #Now it Change global x value.
     print(x)
 
-myFunction()
+myFunction2()
 
 print("Output: "+x)
 
