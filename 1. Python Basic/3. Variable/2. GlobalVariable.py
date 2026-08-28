@@ -25,7 +25,7 @@ def myFunction2():
 
 myFunction2()
 
-print("Output: "+x)
+print("Output: "+x) # Now it print changed value.
 
 # We can use it loop, oop etc
 
