@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Variable / 1. Variable. Short example for learning Python."""
+
 
 # -> Python has no command for declaring variable.
 

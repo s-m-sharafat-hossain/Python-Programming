@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Data Type / DataType. Short example for learning Python."""
+
 # Build in data types:
 
 #=> Text Type:      str

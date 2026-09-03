@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Conditional / NestedIf. Short example for learning Python."""
+
 
 x = 41
 

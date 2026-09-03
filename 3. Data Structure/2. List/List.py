@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / List / List. Short example for learning Python."""
+
 
 # List: List are used to store multiple items in a single variable.
 

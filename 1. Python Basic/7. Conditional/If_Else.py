@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Conditional / If Else. Short example for learning Python."""
+
 
 # Using if keyword we can state all mathematical condition. Like:
 

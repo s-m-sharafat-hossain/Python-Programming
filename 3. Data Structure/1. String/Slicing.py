@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / String / Slicing. Short example for learning Python."""
+
 
 # Slicing:
 # You can return a range of characters by using the slice syntax.

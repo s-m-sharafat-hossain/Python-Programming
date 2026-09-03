@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / String / Modify. Short example for learning Python."""
+
 
 #Python has a set of built in methods that you can use on strings.
 

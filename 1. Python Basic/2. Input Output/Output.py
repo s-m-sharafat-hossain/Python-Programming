@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Input Output / Output. Short example for learning Python."""
+
 
 # Simple Output print()
 

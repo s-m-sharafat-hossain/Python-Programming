@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Variable / 2. GlobalVariable. Short example for learning Python."""
+
 
 # Global Variables
 # Variables that are created outside of a function (as in all of the examples in the previous pages) are known as global variables.

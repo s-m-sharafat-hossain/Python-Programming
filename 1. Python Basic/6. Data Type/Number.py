@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Data Type / Number. Short example for learning Python."""
+
 
 #Integer:
 x = -50

@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / String / StringMethod. Short example for learning Python."""
+
 # capitalize()	    Converts the first character to upper case
 a = "hello World"
 print(a.capitalize())

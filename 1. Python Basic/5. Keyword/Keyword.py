@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Keyword / Keyword. Short example for learning Python."""
+
 import keyword
 
 # printing all keywords at once using "kwlist()"

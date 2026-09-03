@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Comments / Comment. Short example for learning Python."""
+
 
 # For Single-line Comment in Python:
 # A single-line comment starts with the hash character (#) and extends to the end of the line.

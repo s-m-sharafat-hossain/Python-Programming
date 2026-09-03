@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Introduction / Syntax. Short example for learning Python."""
+
 
 
 a= 5

@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / List / AccessChange. Short example for learning Python."""
+
 
 # Access Item: using index value I can access individual value from list.
 

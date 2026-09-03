@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / String / AddString. Short example for learning Python."""
+
 
 # String Concatenation: add 2 string
 

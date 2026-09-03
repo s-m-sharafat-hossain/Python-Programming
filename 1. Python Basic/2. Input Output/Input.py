@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Input Output / Input. Short example for learning Python."""
+
 # Basic input
 name = input("Enter your name: ")
 print("Hello,", name)

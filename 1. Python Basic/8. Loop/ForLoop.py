@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Loop / ForLoop. Short example for learning Python."""
+
 # For Loop in Python:
 # A for loop is used to iterate over a sequence (like a list, tuple, dictionary, set, or string).
 # It allows you to execute a block of code multiple times, once for each item in the sequence.

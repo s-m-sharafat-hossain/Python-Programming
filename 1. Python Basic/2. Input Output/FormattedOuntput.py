@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Input Output / FormattedOuntput. Short example for learning Python."""
+
 
 # To show value in string we use {} curly braces.
 # We can use f before the string to format it. {a:.2f} means to show 2 decimal places.

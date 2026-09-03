@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Data Type / Boolean. Short example for learning Python."""
+
 
 # In programming you often need to know if an expression is True or False.
 

@@ -1,3 +1,5 @@
+"""Python practice: Python Basic / Conditional / AndOrNot. Short example for learning Python."""
+
                             # AND
 
 a = 5;

@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / String / FormateString. Short example for learning Python."""
+
 
 # String Format:  we can use f"Age: {age}"
 age = 24

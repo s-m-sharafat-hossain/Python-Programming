@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / List / AddRemoveList. Short example for learning Python."""
+
                         # Add List
 
 # Insert Items: To insert a new list item, without replacing any of the existing value.

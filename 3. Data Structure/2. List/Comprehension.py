@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / List / Comprehension. Short example for learning Python."""
+
                         # List Comprehension:
 
 # List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.

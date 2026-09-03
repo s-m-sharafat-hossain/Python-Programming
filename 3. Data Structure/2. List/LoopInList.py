@@ -1,3 +1,5 @@
+"""Python practice: Data Structure / List / LoopInList. Short example for learning Python."""
+
 # Loop through a list: using for
 
 L = [45,33,45,53,'Hamim',"Hi"]
