@@ -10,6 +10,7 @@
 # Greater than: a > b
 # Greater than or equal to: a >= b
 
+
 a = 55
 b = 34
 if a>b:
